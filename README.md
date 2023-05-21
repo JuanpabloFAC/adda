@@ -1,3 +1,3 @@
 ## Curso digital git
 
-# Meu segundo commit 
+# Adicionando readme na main
